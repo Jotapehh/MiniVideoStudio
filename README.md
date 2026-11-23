@@ -1,5 +1,7 @@
 # Mini Video Studio
 
+![capa](https://i.imgur.com/ouVgkXr.png)
+
 Central de ferramentas para **converter, comprimir, cortar e analisar vídeos e áudios**, com interface
 desktop escura e moderna. Tudo é processado **localmente** com FFmpeg: nenhum arquivo sai do seu computador.
 
