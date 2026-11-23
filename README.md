@@ -13,9 +13,9 @@ desktop escura e moderna. Tudo é processado **localmente** com FFmpeg: nenhum a
 python main.py            :: abre o aplicativo
 python main.py --check    :: só verifica o FFmpeg/FFprobe (diagnóstico)
 ```
-ou baixe o executável vvvv
-## Instalador
-[Baixar no Windows](./instalador/MiniVideoStudio Installer.exe)
+ou baixe o executável
+## Instalador Executável
+[Baixar pelo Drive](https://drive.google.com/file/d/1NtSOsP1JdhNANq3DT-JbNutvRPg5umQ2/view?usp=sharing)
 
 No instalador vem por padrão o ffmpeg, que também adiciona na variável de ambiente
 
