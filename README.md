@@ -13,10 +13,15 @@ desktop escura e moderna. Tudo é processado **localmente** com FFmpeg: nenhum a
 python main.py            :: abre o aplicativo
 python main.py --check    :: só verifica o FFmpeg/FFprobe (diagnóstico)
 ```
+ou baixe o executável vvvv
+## Instalador
+[Baixar no Windows](./instalador/MiniVideoStudio Installer.exe)
+
+No instalador vem por padrão o ffmpeg, que também adiciona na variável de ambiente
 
 ### Instalando o FFmpeg no Windows
 
-1. Baixe o FFmpeg em <https://www.gyan.dev/ffmpeg/builds/> (versão *release essentials*).
+1. Baixe o FFmpeg em <https://www.gyan.dev/ffmpeg/builds/> (versão *release essentials*) ou pelo instalador do programa.
 2. Extraia, por exemplo, em `C:\ffmpeg`.
 3. Adicione `C:\ffmpeg\bin` à variável de ambiente `PATH` e reabra o programa.
 
